@@ -1,2 +1,1 @@
-# shortcuts
-Programming Shortcuts Cheat Sheet - Visual Studio Code
+# Programming Shortcuts Cheat Sheet - Visual Studio Code
