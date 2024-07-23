@@ -1,5 +1,5 @@
 # Programming Shortcuts Cheat Sheet - Visual Studio Code
-## `lewy shift`+ `tab`
+## `lewy shift` + `tab`
 ##### Przed
 <pre><div>			Lorem Ipsum</div></pre>
 ##### Po
