@@ -9,5 +9,5 @@
 ## `ctrl` + `strzalka`
 ##### Przechodzi o całe słowo, wyraz w przeciwieństwie do strzałki gdzie przechodzimy o jeden znak
 
-## `alt` + `shift` + `D`  + `strzałka w dół`
+## `alt` + `shift` + `strzałka w dół`
 ##### Kopiuje linie kodu i wkleja ja na dol
