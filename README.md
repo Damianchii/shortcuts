@@ -6,7 +6,7 @@
 <pre><div>  Lorem Ipsum</div></pre>
 ##### Cofa tabulacje w lewo, czyli robi to samo co `tab` tylko w drugą strone
 
-## `ctrl` + `strzalka`
+## `ctrl` + `strzalka lewo/prawo`
 ##### Przechodzi o całe słowo, wyraz w przeciwieństwie do strzałki gdzie przechodzimy o jeden znak
 
 ## `alt` + `shift` + `strzałka w dół`
