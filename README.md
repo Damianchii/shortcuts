@@ -10,4 +10,7 @@
 ##### Przechodzi o całe słowo, wyraz w przeciwieństwie do strzałki gdzie przechodzimy o jeden znak
 
 ## `alt` + `shift` + `strzałka w dół`
-##### Kopiuje linie kodu i wkleja ja na dol
+##### Kopiuje linie kodu i wkleja ją na dół
+
+## `alt` + `W`
+##### Zaznaczony tekst bądź słowo zamyka w znacznik `<p>` lub jakikolwiek inny po zmianie nazwy 
